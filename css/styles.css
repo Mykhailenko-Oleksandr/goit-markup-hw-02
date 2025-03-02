@@ -1,0 +1,7 @@
+body > ul {
+  list-style-type: none;
+}
+.logo {
+  font-family: "Raleway" sans-serif;
+  text-transform: uppercase;
+}
